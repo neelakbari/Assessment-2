@@ -56,7 +56,14 @@ body{
     font-size: 24px;
     padding: 8px;
 }
-
+.img-slider .slide p {
+    background:rgba(255, 255, 255, 0.5)  ;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
 
 /* -----------navigation Starts--------*/ 
 
